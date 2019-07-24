@@ -111,7 +111,7 @@ print('RM''sum=',RM.sum(),'mean=',RM.mean(),'median=',RM.median(),'min=',RM.min(
 print('AGE''sum=',AGE.sum(),'mean=',AGE.mean(),'median=',AGE.median(),'min=',AGE.min(),'max=',AGE.max())
 print('DIS''sum=',DIS.sum(),'mean=',DIS.mean(),'median=',DIS.median(),'min=',DIS.min(),'max=',DIS.max())
 print('TAX''sum=',TAX.sum(),'mean=',TAX.mean(),'median=',TAX.median(),'min=',TAX.min(),'max=',TAX.max())
-
+#
 
 
 
